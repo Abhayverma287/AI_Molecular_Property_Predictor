@@ -1,0 +1,11 @@
+smiles,property
+CCO,0
+CCN,1
+CC(=O)O,0
+CC(C)O,1
+CCC,0
+CCCN,1
+CCCl,0
+CCBr,1
+CC(C)C,0
+CC(C)N,1
