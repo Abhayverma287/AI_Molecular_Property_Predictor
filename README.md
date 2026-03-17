@@ -28,7 +28,7 @@ streamlit run app.py
 - app.py → Streamlit interface
 
 ## Output
-(Screenshots(20).png)
+![Demo](./Screenshots(20).png)
 
 
 ## Author
