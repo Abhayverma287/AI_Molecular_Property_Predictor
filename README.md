@@ -2,6 +2,11 @@
 
 This project uses Machine Learning to predict molecular properties from SMILES using RDKit and Scikit-learn.
 
+## Project Demo
+
+![AI_Molecular_Property_Predictor](Screenshot(20).png)
+
+
 ## Features
 - Molecular fingerprint generation (Morgan Fingerprints)
 - ML-based prediction model
